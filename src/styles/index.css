@@ -1,7 +1,86 @@
+.class1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 5px;
+    margin-bottom: 5px;
 
+
+    
+  }
+  
+  .color-red {
+    background-color: red;
+
+  }
+  .redselected{
+    box-shadow: 0 0 20px 10px red;
+
+
+        
+  }
+  .color-purple {
+    background-color: purple;
+
+  }
+  .purpleselected{
+    box-shadow: 0 0 20px 10px purple;
+
+  }
+  
+  .color-green {
+    background-color: green;
+
+  }
+  .greenselected{
+    box-shadow: 0 0 20px 10px green;
+
+  }
+  
+  .color-yellow {
+    background-color: yellow;
+  }
+    .yellowselected{
+        box-shadow: 0 0 20px 10px yellow;
+    
+    }
+  .container{
+    background-color: black;
+    width: 70px;
+    height: 30vh;
+    border-radius: 10px;
+    padding-top: 1%;
+ 
+    margin: auto;
+    box-shadow: 10px 10px 10px 10px gray;
+
+    
+  }
+  .stick{
+    background-color: black;
+    width: 15px;
+    height: 70px;
+    margin: auto;
+    border-radius: 3px;
+    box-shadow: 10px 10px 10px 10px gray;
+
+  }
+  button{
+    margin: auto;
+    display: block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    box-shadow: 0 0 15px 8px purple;
+    background-color: black;
+    color: purple;
+
+  }
 /* 
 
-    You can write your own styles here...
+    You can write your own sty2es here...
     
     
     ...Or you can use the import command to include 
